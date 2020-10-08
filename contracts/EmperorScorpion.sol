@@ -22,7 +22,7 @@ interface IMigratorEScorpion {
     function migrate(IERC20 token) external returns (IERC20);
 }
 
-// EmperorScorpion is the master of Scorpion. He can make Scorpion and he is a fair guy.
+// EmperorScorpion is the emperor of Scorpions. He can hatch new Scorpions and always stays burrowed.
 //
 // Note that it's ownable and the owner wields tremendous power. The ownership
 // will be transferred to a governance smart contract once SCORP is sufficiently
